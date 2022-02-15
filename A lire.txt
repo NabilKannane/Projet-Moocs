@@ -1,0 +1,7 @@
+Veuiller respecter l'ordre du dossier SVP;
+
+	COURS1 -> CHAPITRE1 -> video.mp4
+
+
+NB: utilise "-" au lieu de 'espace' ! 
+MERCI
